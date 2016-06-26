@@ -1,3 +1,4 @@
+var ringbox_source_updatedOn="2016.6.26";
 var ringbox_source_effects=[
 	"効果",
 	["攻撃系",

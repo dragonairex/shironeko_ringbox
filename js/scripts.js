@@ -552,7 +552,7 @@ var rr=(function () {
 	};
 })();
 $(document).ready(function (){
-    console.log('loaded.');
+    $("#updatedOn").text(ringbox_source_updatedOn);
 	rr.init();
 	$("#ringBox").on("click",function(){/*potential error*/
 		$(".ring.clicked").removeClass("clicked");
