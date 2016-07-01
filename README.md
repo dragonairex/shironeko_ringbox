@@ -1,10 +1,10 @@
 **Ringbox tool** for popular Japanese mobile game Shironeko Project ([白猫プロジェクト](http://colopl.co.jp/shironekoproject "白猫プロジェクト")).
 
-####[go to app](https://dragonairex.github.io/shironeko_ringbox "Ringbox")
+####[go to Ringbox](https://dragonairex.github.io/shironeko_ringbox "Ringbox")
 
 ### Functions
-* Add, Edit, Delete in a breeze
-* Auto-save
+* add, edit, delete in a breeze
+* auto-save
 * export/import
 * arrange and power search
 
@@ -12,4 +12,4 @@
 * jQuery
 
 ### Questions?
-* Ask me on [twitter](https://twitter.com/derek_jpn "@derek_jpn")
+* Ask me on twitter [@derek_jpn](https://twitter.com/derek_jpn "@derek_jpn")
